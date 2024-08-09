@@ -1,1 +1,1 @@
-xprobe/xinference:v0.12.3
+openmmlab/lmdeploy:latest
